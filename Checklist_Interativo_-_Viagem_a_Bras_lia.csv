@@ -1,0 +1,40 @@
+Categoria,Item,Marcado
+Roupas,Camisa azul do show,False
+Roupas,Camisa casual,False
+Roupas,Calça jeans escura,False
+Roupas,Calça preta ou sarja,False
+Roupas,Bermuda leve,False
+Roupas,Blusa leve / casaco,False
+Roupas,Roupas íntimas,False
+Roupas,Pares de meias,False
+Roupas,Sapato social / bota,False
+Roupas,Tênis ou sandália,False
+Higiene pessoal,Escova e pasta de dentes,False
+Higiene pessoal,Desodorante,False
+Higiene pessoal,Perfume,False
+Higiene pessoal,Shampoo / condicionador,False
+Higiene pessoal,Sabonete,False
+Higiene pessoal,Pente / escova de cabelo,False
+Higiene pessoal,Hidratante / protetor solar,False
+Higiene pessoal,Lâmina / barbeador,False
+Higiene pessoal,Remédios pessoais,False
+Eletrônicos,Celular e carregador,False
+Eletrônicos,Power bank,False
+Eletrônicos,Adaptador de tomada,False
+Eletrônicos,Cabo USB extra,False
+Eletrônicos,Notebook / iPad,False
+Eletrônicos,Carregador do notebook,False
+Eletrônicos,Fones de ouvido,False
+Eletrônicos,Relógio,False
+Eletrônicos,Lentes e ventosa da esposa,False
+Documentos,Carteira (RG / CNH),False
+Documentos,Cartões de crédito / débito,False
+Documentos,Comprovante da hospedagem,False
+Documentos,Ingressos do show,False
+Documentos,Passagens,False
+Extras,Óculos de sol,False
+Extras,Boné / chapéu,False
+Extras,Protetor labial,False
+Extras,Lenços / lenço umedecido,False
+Extras,Máscara,False
+Extras,Sacola para roupas sujas,False
